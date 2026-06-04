@@ -87,4 +87,3 @@ rm -rf data && javac -encoding UTF-8 -cp "lib/flatlaf-3.4.1.jar" -d out $(find s
 
 Kết quả: Login OK · Lương NV001: 150.000đ · Đơn giá/lương =0 bị chặn · Thanh toán có chiết khấu 10% → 
 tiền thừa 19.000đ · Tìm hóa đơn OK · Thống kê hôm nay: 1 HĐ, 81.000đ · Top món: Gỏi cuốn tôm thịt x2.
-

@@ -7,3 +7,9 @@ data/
 .settings/
 .classpath
 .project
+
+# Log & crash files
+*.log
+*.ctxt
+hs_err_pid*
+replay_pid*
